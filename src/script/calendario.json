@@ -1,0 +1,272 @@
+[
+  {
+    "2024": {
+      "enero": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "31",
+        "Enero"
+      ],
+      "febrero": [
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "29",
+        "Febrero"
+      ],
+      "marzo": [
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "31",
+        "Marzo"
+      ],
+      "abril": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "30",
+        "Abril"
+      ],
+      "mayo": [
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "31",
+        "Mayo"
+      ],
+      "junio": [
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "30",
+        "Junio"
+      ],
+      "julio": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "31",
+        "Julio"
+      ],
+      "agosto": [
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "31",
+        "Agosto"
+      ],
+      "septiembre": [
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "30",
+        "Septiembre"
+      ],
+      "octubre": [
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "31",
+        "Octubre"
+      ],
+      "noviembre": [
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "30",
+        "Noviembre"
+      ],
+      "diciembre": [
+        "domingo",
+        "lunes",
+        "martes",
+        "miecoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "31",
+        "Diciembre"
+      ]
+    },
+    "2025": {
+      "enero": [
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "31",
+        "Enero"
+      ],
+      "febrero": [
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "28",
+        "Febrero"
+      ],
+      "marzo": [
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "31",
+        "Marzo"
+      ],
+      "abril": [
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "30",
+        "Abril"
+      ],
+      "mayo": [
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "31",
+        "Mayo"
+      ],
+      "junio": [
+        "domingo",
+        "lunes",
+        "martes",
+        "miecoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "30",
+        "Junio"
+      ],
+      "julio": [
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "31",
+        "Julio"
+      ],
+      "agosto": [
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "31",
+        "Agosto"
+      ],
+      "septiembre": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "savado",
+        "domingo",
+        "30",
+        "Septiembre"
+      ],
+      "octubre": [
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "31",
+        "Octubre"
+      ],
+      "noviembre": [
+        "sabado",
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "30",
+        "Noviembre"
+      ],
+      "diciembre": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "savado",
+        "domingo",
+        "31",
+        "Diciembre"
+      ]
+    }
+  }
+]

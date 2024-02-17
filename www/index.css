@@ -1,0 +1,193 @@
+.fondo {
+  background-color: #111325;
+}
+.contenedor-inicio {
+  margin-top: 20%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+  align-items: center;
+}
+.btn.btn-primary.inicio {
+  width: 25%;
+  height: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  background-color: grey;
+  border-color: grey;
+}
+
+.btn.btn-primary.inicio:hover {
+  background-color: rgb(80, 79, 79);
+  border-color: rgb(80, 79, 79);
+}
+
+#titulo {
+  color: rgb(79, 100, 117);
+}
+
+.btn.btn-primary.atras {
+  text-decoration: none;
+  color: rgb(53, 70, 83);
+  padding-left: 0px;
+  padding-top: 0%;
+  font-size: 230%;
+}
+.formulario-actualizar {
+  color: grey;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.filtrar {
+  margin-right: 10px;
+}
+#nombre-y-apellido {
+  margin-left: 10px;
+}
+.tabla-datos {
+  color: aliceblue;
+  text-align: center;
+  border: solid dimgray 2px;
+}
+th,
+td {
+  border: solid dimgray 1px;
+}
+.btn-actualizar {
+  background-color: rgb(21, 85, 21);
+  border-color: transparent;
+  width: 85px;
+  height: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  border-radius: 2px;
+}
+.btn-actualizar:hover {
+  background-color: rgb(3, 54, 3);
+  border-color: transparent;
+}
+
+.btn-borrar {
+  background-color: rgb(95, 31, 31);
+  border-color: transparent;
+  width: 85px;
+  height: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 2px;
+}
+.btn-borrar:hover {
+  background-color: rgb(63, 0, 0);
+  border-color: transparent;
+  cursor: pointer;
+}
+
+.formulario,
+.imputs {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+#nombre-apellido,
+#dni,
+#fecha-nacimiento {
+  width: 300px;
+}
+
+.label-nombre {
+  margin-bottom: 10px;
+}
+.label-dni,
+.label-nombre,
+.label-nombre {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.contenedor-btn-filtrar {
+  margin-top: 10px;
+}
+.btn-crear {
+  width: 300px;
+  height: 30px;
+  border-radius: 5px;
+  border-color: rgb(2, 65, 2);
+  background-color: rgb(2, 65, 2);
+}
+.btn-crear:hover {
+  border-color: rgb(0, 175, 38);
+  background-color: rgb(0, 175, 38);
+}
+
+.btn-filtrar-actualizar {
+  background-color: rgb(84, 121, 21);
+  border-color: transparent;
+  border-radius: 7px;
+  height: 25px;
+  width: 75px;
+}
+
+.btn-filtrar-actualizar:hover {
+  cursor: pointer;
+  background-color: rgb(105, 194, 16);
+}
+
+.error {
+  color: aliceblue;
+  text-align: center;
+  margin-top: 20px;
+}
+.error-crear-paciente {
+  color: aliceblue;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.tabla-citas {
+  color: aliceblue;
+}
+.contenedor-letras-calendario {
+  color: aliceblue;
+  margin-top: 0px;
+}
+
+.label-nombre.form-crear-paciente {
+  color: aliceblue;
+}
+.contenedor-fomulario.form-crear-paciente {
+  align-items: center;
+  justify-items: center;
+}
+
+.separador-cuerpo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.actualizar-paciente {
+  text-decoration: none;
+  color: aliceblue;
+}
+.btn-actualizar {
+  width: max-content;
+}
+
+.letras-form-boa-paciente {
+  color: aliceblue;
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: larger;
+}
+.container-table,
+.tabla-datos.actualizar-paciente {
+  width: 80vh;
+  min-width: 79.9vh;
+}
